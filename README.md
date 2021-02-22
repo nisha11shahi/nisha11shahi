@@ -17,6 +17,7 @@ I graduated with a Masters degree in Applied Computer Science on Spring 2020 fro
 <a href="https://instagram.com/n1shahi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="n1shahi" height="30" width="40" /></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisha11shahi&show_icons=true&locale=en&layout=compact" alt="nisha11shahi" /></p>
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisha11shahi&" alt="nisha11shahi" /></p>
 
 
