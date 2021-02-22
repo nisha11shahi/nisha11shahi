@@ -6,7 +6,7 @@ I graduated with a Masters degree in Applied Computer Science on Spring 2020 fro
 
 
 
-###### Open to Full-time SDE roles_ :computer:
+###### Open to Full-time SDE roles :computer:
 
 - 📫 How to reach me **nisha11shahi@gmail.com**
 
