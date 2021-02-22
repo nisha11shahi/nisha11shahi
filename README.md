@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋 I am Nisha Shahi </h3>
-<h3 align="center"> a passionate application developer from Missouri. </h3>
+<h3 align="center"> A passionate application developer from Missouri. </h3>
 
 I graduated with a Masters degree in Applied Computer Science on Spring 2020 from Southeast Missouri State University. I am proficient in C#, ASP.NET MVC, JavaScript, and Python. Out of these programming languages, I feel comfortable working with ASP.NET MVC applications. In my current role, I'm working mainly with ASP.NET MVC to create web applications that worked across multiple platforms. 
 
